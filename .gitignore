@@ -1,0 +1,5 @@
+# ignore test.txt
+test.txt
+
+# ignore Ignore-This directory and its content
+Ignore-This/
